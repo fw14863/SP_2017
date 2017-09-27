@@ -1,0 +1,19 @@
+Useful:
+
+Correlation Plots
+TC_FW (goes with the files: temp_cor56.ascii and temp_cor56_largeL.ascii)
+E_background (why 'electron_background' seems to be a poor estimate)
+NK_2 (Various plots for all nuclear tests)
+NK_3 (Particle rates etc. agains time around nuclear tests marked by black vertical line)
+TemporalCorHIST (goes with temp_cor56.ascii)
+
+
+
+
+NOT so useful:
+
+BDAY_3d_plot
+EQS (first idea for TC_FW)
+NK_1
+Particle bursts- full script (first version of temporal analysis)
+
